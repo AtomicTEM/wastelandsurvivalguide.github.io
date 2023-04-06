@@ -149,7 +149,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### Megaton Walkway
 
-- Completely breaks navmeshes in Megaton causing NPCs to teleport under Springvale, someone could fix it.
+- Completely breaks navmeshes in Megaton causing NPCs to teleport under Springvale, someone could fix it. Use [The Megaton Walkway - TTW](https://www.nexusmods.com/newvegas/mods/77243).
 
 #### Monster Mod / MoMod
 
